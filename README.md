@@ -23,4 +23,5 @@ This table describes what is expected of the `test_vault` folder.  That is the t
 
 ## Usage
 
-Placeholder
+Currently the path is hard coded for testing.
+Run the app with `uv run obsidian-vault-checker`.
