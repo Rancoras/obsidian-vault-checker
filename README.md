@@ -27,3 +27,4 @@ This table describes what is expected of the `test_vault` folder.  That is the t
 
 Currently the path is hard coded for testing.
 Run the app with `uv run obsidian-vault-checker`.
+Do not run this against a live Obsidian vault just yet.
